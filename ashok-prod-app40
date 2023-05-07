@@ -1,6 +1,6 @@
 https://github.com/unixnaresh/cloudops22a/blob/main/naresh-dev-app1
-Server Name : Ashok-prod-app1
-Server Type : Prod
+Server Name : Ashok-Dev-app1
+Server Type : Dev
 Server priority : P2 
 Server State : Production
 OS resolver Team : SYSOPS-TVS
@@ -10,7 +10,7 @@ DataCenter Resolver Team : DCO-Dallas-C1
 
 Server Manufacture : Dell
 Server Model : Dell Proliant DL380 
-SERIAL NUMBER : p5kjal15aC
+SERIAL NUMBER : 2240
 Build : 12th May 2018 
 DataCenter Address : Street1 ,TYPE C , LANE 2 , DALLAS-54210 
 RACK : 2 
