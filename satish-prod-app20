@@ -1,6 +1,6 @@
-Server Name : satish-prod-app1
+Server Name : satish-prod-app20
 Server Type : prod
-Server priority : P2
+Server priority : P1
 Server State : Production
 OS resolver Team : SYSOPS-TVS
 APP resolver Team : WEBOPS-TVS
