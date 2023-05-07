@@ -1,5 +1,5 @@
 Server Name : shiva-dev-app31
-Server Type : Dev
+Server Type : dev
 Server priority : P2 
 Server State : Production
 OS resolver Team : SYSOPS-TVS
@@ -11,8 +11,10 @@ Server Manufacture : dell
 Server Model : dell Proliant DL380 
 SERIAL NUMBER : p0kjal19aC
 Build : 07th May 2023 
-DataCenter Address : Street1 ,TYPE C , LANE 3 , Kondapur-500084 
+
+DataCenter Address : Street1 ,TYPE C , LANE 3, kondapur-500084 
 RACK : 2 
 FLOOR : 5
-ROOM : 503 
+ROOM :503 
+
 

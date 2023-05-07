@@ -1,5 +1,5 @@
-Server Name : Naresh-dev-app1
-Server Type : Dev
+Server Name : Praveen-prod-app28
+Server Type : prod
 Server priority : P2 
 Server State : Production
 OS resolver Team : SYSOPS-TVS
@@ -9,9 +9,10 @@ DataCenter Resolver Team : DCO-Dallas-C1
 
 Server Manufacture : HP
 Server Model : HP Proliant DL380 
-SERIAL NUMBER : p0kjal19aC
+SERIAL NUMBER : 102gf61f29j0lk66
 Build : 12th May 2018 
-DataCenter Address : Street1 ,TYPE C , LANE 2 , DALLAS-54210 
+DataCenter Address : Street1 ,TYPE C , LANE 2 , KANIGIRI-54210 
 RACK : 2 
 FLOOR : 1
 ROOM : 3 
+MANAGED BY:OS TEAM_VARAINS
