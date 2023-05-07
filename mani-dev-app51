@@ -1,7 +1,7 @@
-Server Name : mani-dev-app1
-Server Type : prod
+Server Name : mani-dev-app51
+Server Type : dev
 Server priority : P2 
-Server State : Production
+Server State : development
 OS resolver Team : SYSOPS-TVS
 APP resolver Team : WEBOPS-TVS 
 DataCenter Resolver Team : DCO-Dallas-C1
